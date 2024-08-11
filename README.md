@@ -42,7 +42,7 @@ To run this example, you need to set up a Discord bot and configure the `safenes
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/exemple-safeness.git
+    git clone https://github.com/pertinentes/exemple-safeness.git
     cd exemple-safeness
     ```
 
